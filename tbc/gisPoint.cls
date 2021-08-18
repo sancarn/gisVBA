@@ -10,7 +10,7 @@ Attribute VB_Exposed = False
 Implements gisIPoint
 
 'Library: gisVBA_WIP
-'URL:     https://github.com/sancarn/gisVBA_WIP
+'URL:     https://github.com/sancarn/gisVBA/tree/dev/tbc
 'Credits:
 '* Initial version by Ordnance Survey ( https://www.ordnancesurvey.co.uk/business-government/tools-support/os-net/coordinates )
 '* 2021-08-17 Adapted by Sancarn (This file has several versions, but many took inspiration from OS above. This file was re-written to fix some issues)
